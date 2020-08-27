@@ -1,5 +1,5 @@
 title: Gavin Tang
-description: ->
+description: >- # this means to ignore newlines until "baseurl:"
   SHOWCASE
 
 theme: jekyll-theme-slate
