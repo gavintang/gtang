@@ -1,5 +1,6 @@
 title: Gavin Tang
-description: >- # this means to ignore newlines until "baseurl:"
-  SHOWCASE
-
+email: tang.gavin@gmail.com
+description: SHOWCASE
 theme: jekyll-theme-slate
+
+github_username:  gavintang
